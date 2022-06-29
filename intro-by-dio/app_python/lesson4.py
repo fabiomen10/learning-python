@@ -1,4 +1,4 @@
-a = int(input('First bimester: '))
+ a = int(input('First bimester: '))
 while a > 10:
     a = int(input('You mistyped. First bimester: '))
 b = int(input('Second bimester: '))
